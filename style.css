@@ -1,28 +1,28 @@
 body {
-<<<<<<< HEAD
-    background: #eaeaea;
+  background: #eaeaea;
 }
 
 * {
-    font-family: Lato;
+  font-family: Lato;
 }
 
 .flex-row {
-    display: flex;
-    flex-direction: row;
+  display: flex;
+  flex-direction: row;
 }
 
 .flex-column {
-    display: flex;
-    flex-direction: column;
+  display: flex;
+  flex-direction: column;
 }
 
 button {
-    border: solid 2px black;
-    border-radius: 20%;
-    background-color: darkolivegreen;
-    padding: 10px
+  border: solid 2px black;
+  border-radius: 20%;
+  background-color: darkolivegreen;
+  padding: 10px;
 }
 
 button:hover {
-    background-color: darkgreen;
+  background-color: darkgreen;
+}
