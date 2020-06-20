@@ -1,4 +1,5 @@
 body {
+<<<<<<< HEAD
     background: #eaeaea;
 }
 
@@ -25,4 +26,21 @@ button {
 
 button:hover {
     background-color: darkgreen;
+=======
+  background: #eaeaea;
+}
+
+* {
+  font-family: Lato;
+}
+
+.flex-row {
+  display: flex;
+  flex-direction: row;
+}
+
+.flex-column {
+  display: flex;
+  flex-direction: column;
+>>>>>>> a2bcbbfc16d10667fbdaf8be251bd3e982725b3d
 }
