@@ -43,11 +43,3 @@ btnReset.addEventListener("click", () => {
   total = 0;
   updateResult();
 });
-=======
-import './style.css';
-
-const images = {
-  treasure: '💰',
-  leafs: '🍃'
-}
->>>>>>> a2bcbbfc16d10667fbdaf8be251bd3e982725b3d
